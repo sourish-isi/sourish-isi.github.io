@@ -1,7 +1,7 @@
 ---
 title: Concise Curriculum Vitae
 ---
-You can download the detailed one [here](https://github.com/paulpseudoman/paulpseudoman.github.io/raw/main/MY_CV.pdf)
+You can download the detailed one [here](https://github.com/sourish-isi/sourish-isi.github.io/raw/main/Sourish_Sarkar_CV_.pdf)
 
 ### Education
 > **2024 - Present:** Indian Statistical Institute.
