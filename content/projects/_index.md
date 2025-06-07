@@ -7,11 +7,6 @@ title: Research
 - I am currently working on a problem concerning a *3 player variant* of traditional auction bridge, with slight modifications. This is a joint work with  **Aritrabha Majumdar (ISI Bangalore)**, and **Dr. Moutushi Chatterjee (ISI Bangalore)**.
 
 ### 2024
-
-title: Research
-
 - I am working on a project whose central idea is *Combinatorial Analysis in Rummy*.
-
-title: Project
 - I have worked on a project featuring *Car Price Prediction* using random forest regression model.
 - I have worked on a project featuring *Flight Ticket Prediction* using random forset model.
